@@ -1,0 +1,4 @@
+Score: 68 | Level: 5 | Time: 480s
+Score: 7 | Level: 2 | Time: 186s
+Score: 32 | Level: 3 | Time: 140s
+Score: 12 | Level: 2 | Time: 62s
